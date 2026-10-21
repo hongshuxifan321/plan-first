@@ -26,3 +26,7 @@ AI 拿到任务就闷头改，改完才发现方向不对。plan-first 把「讨
 
 - [agenttime](https://github.com/hongshuxifan321/agenttime)——会话回顾散文
 - [econ-cn-docx](https://github.com/hongshuxifan321/econ-cn-docx)——经管论文中文排版
+
+## 许可
+
+MIT，见 `LICENSE`。
